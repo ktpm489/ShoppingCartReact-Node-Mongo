@@ -1,0 +1,8 @@
+ 
+      https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-stylesheet
+      https://github.com/facebook/create-react-app/issues/301
+      https://stackoverflow.com/questions/37930480/bootstrap-cards-not-showing-like-in-examples
+npm install --save react-router-dom 
+  npm install --save history
+'react-router-dom' does not contain an export named 'IndexRoute'.
+https://stackoverflow.com/questions/42748727/using-react-indexroute-in-react-router-v4
